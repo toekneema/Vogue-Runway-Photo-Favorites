@@ -1,0 +1,1 @@
+run `python3 get_urls_script.py`, it will overwrite urls.txt.
